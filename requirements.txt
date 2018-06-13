@@ -1,0 +1,8 @@
+python-dotenv
+ipython
+requests
+pytest
+csv
+os
+json
+pdb
