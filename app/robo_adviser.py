@@ -43,7 +43,6 @@ def write_prices_to_file(prices=[], filename="data/prices.csv"):
             }
             writer.writerow(row)
 
-#def output(symbol, execute_time, datatime, latest_closing_price_usd, avg_high_price, avg_low_price, recommendation):
 output = """
     -----------------------------------
     ROBO STOCK ADVISOR
