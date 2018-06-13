@@ -1,6 +1,6 @@
 import csv
 #from dotenv import load_dotenv
-    #couldn't get dotenv enviroment variable to work--used global insteadl
+    #couldn't get dotenv enviroment variable to work--used global instead
 import json
 import os
 import pdb
